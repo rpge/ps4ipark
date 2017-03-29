@@ -1,9 +1,3 @@
-##### Specification
-- **Method** : POST
-- **URL** : http(s)://:your\_server\_url/message
-- **Content-Type** : application/json; charset=utf-8
-- **Parameters**
-curl -XGET 'https//your_server_url/keyboard'
 {
 "type" : "buttons",
 "buttons" : ["선택 1", "선택 2", "선택 3"]
