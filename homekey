@@ -1,0 +1,5 @@
+curl -XGET 'https//your_server_url/keyboard'
+{
+"type" : "buttons",
+"buttons" : ["선택 1", "선택 2", "선택 3"]
+}
